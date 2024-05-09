@@ -2,7 +2,7 @@
 <br>
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<p> This is my first Made game with Python. I will add more feature. At now its in the base template mode. Hope the this game project will finish soon and present a complete visual game </p>
+<p> This is my first game made with Python. I will add more feature. At now its in the base template mode. Hope that this game project will finish soon and will present a complete visual game </p>
 <br><br>
 <b>Connection</b><img src="https://i.gifer.com/origin/13/1371d634f90cdc50459a789aca452140_w200.gif" width ="20">
 <br>
@@ -16,6 +16,6 @@
 </ul>
 </div>
 <div align="center">
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+<b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 </div>
 
