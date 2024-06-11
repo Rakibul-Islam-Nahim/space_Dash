@@ -9,8 +9,8 @@ This Python project serves as an introduction to the Pygame library. Designed wi
 * [Usage](#usage)
 * [License](#license)
 
-##Prerequisites
-1. Python 3: Ensure you have Python 3 installed on your system. You can download it from https://www.python.org/downloads/.
+## Prerequisites
+1. Python3: Ensure you have Python 3 installed on your system. You can download it from https://www.python.org/downloads/.
 2. Verify you have the pip3 package manager installed and up-to-date. You can usually check this by running bash```$pip3 --version``` in your terminal. If not installed, refer to Python documentation for installation instructions.
   And you may consider to run this bash```$python -m pip install --upgrade pip```
 
@@ -25,11 +25,15 @@ This is a build in python game. So it contain no Usage. but I will instruct you 
 This project does not contain any copyright license.
 
 ## Contact
-***<b>LinkedIn: </b><a href="https://www.linkedin.com/in/rakib-nahim-46293a24a">Rakib Nahim</a>
 <ul>
   <li>
     <a href="https://www.facebook.com/rakib.ul.islam.nahim">
       <img src="https://img.shields.io/badge/facebook: Rakibul%20Islam%20Nahim-8A2BE2.svg?style=for-the-badge&logo=facebook&logoColor=white" t=facebook"/>
+    </a>
+<li>
+  <li>
+    <a href="https://www.linkedin.com/in/rakib-nahim-46293a24a">
+      <img src="https://img.shields.io/badge/LinkedIn: Rakib%20Nahim-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" t=LinkedIn"/>
     </a>
 <li>
 <a href="mailto:rakib.ul.islam.nahim.cuet@gmail.com" target="_blank">
