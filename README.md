@@ -30,11 +30,12 @@ This project does not contain any copyright license.
     <a href="https://www.facebook.com/rakib.ul.islam.nahim">
       <img src="https://img.shields.io/badge/facebook: Rakibul%20Islam%20Nahim-8A2BE2.svg?style=for-the-badge&logo=facebook&logoColor=white" t=facebook"/>
     </a>
-<li>
+  </li>
   <li>
     <a href="https://www.linkedin.com/in/rakib-nahim-46293a24a">
       <img src="https://img.shields.io/badge/LinkedIn: Rakib%20Nahim-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" t=LinkedIn"/>
     </a>
+  </li>
 <li>
 <a href="mailto:rakib.ul.islam.nahim.cuet@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: rakibulislamnahim-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
